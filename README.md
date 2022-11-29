@@ -16,14 +16,6 @@ and preparation, model building and evaluation process which is of course import
 interact with my models, how can I make my model available for end-users? I can't send them jupyter notebooks right!. That's why I wanted to try my hands
 on complete end-to-end machine learning project.
 
-## 🎬 Deployed Application 🎬
-
-To View the Deployed Application, click on the link given below : Books recommendation system Web App - https://bookrecommendation2022.herokuapp.com/
-
-
-
-
-https://user-images.githubusercontent.com/63314917/184183089-64e5f93d-c109-4ac2-8d0e-42b965823f37.mp4
 
 
 
